@@ -1,0 +1,29 @@
+.list-item2 {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  padding: 1%;
+}
+.listImg {
+  height: 60px;
+  width: 180px;
+}
+.list-heading-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 3%;
+  margin-top: 2%;
+}
+.list-para-2 {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+}
+.removeBtn {
+  height: 30px;
+  width: 60px;
+  color: white;
+  background-color: transparent;
+  border: 1px solid white;
+}

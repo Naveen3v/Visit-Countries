@@ -1,0 +1,25 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 15%;
+}
+.list-para1 {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+}
+.visit-btn {
+  height: 30px;
+  width: 60px;
+  color: white;
+  background-color: #3b82f6;
+  border: 0px;
+}
+.visitPara {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+  margin-right: 1%;
+}
